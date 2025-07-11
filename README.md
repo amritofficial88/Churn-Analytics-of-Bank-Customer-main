@@ -9,7 +9,7 @@ We trained it with 100 estimators using the "logloss" evaluation metric, and 'ba
 
 Obtained the following results:
 
-Classifiers:  LogisticRegression has a score of 85.0 % accuracy score.
+**Classifiers:**  LogisticRegression has a score of 85.0 % accuracy score.
 
     Classification Report: 
   
@@ -27,7 +27,7 @@ Classifiers:  LogisticRegression has a score of 85.0 % accuracy score.
      [  63  262]] 
 
 
-Classifiers:  RandomForestClassifier has a score of 95.0 % accuracy score.
+**Classifiers:**  RandomForestClassifier has a score of 95.0 % accuracy score.
 
     Classification Report: 
   
@@ -45,7 +45,7 @@ Classifiers:  RandomForestClassifier has a score of 95.0 % accuracy score.
      [  76  249]] 
 
 
-Classifiers:  RidgeClassifier has a score of 84.0 % accuracy score.
+**Classifiers:**  RidgeClassifier has a score of 84.0 % accuracy score.
 
     Classification Report: 
   
@@ -63,7 +63,7 @@ Classifiers:  RidgeClassifier has a score of 84.0 % accuracy score.
      [  62  263]] 
 
 
-Classifiers:  SGDClassifier has a score of 84.0 % accuracy score.
+**Classifiers:**  SGDClassifier has a score of 84.0 % accuracy score.
 
     Classification Report: 
   
@@ -81,7 +81,7 @@ Classifiers:  SGDClassifier has a score of 84.0 % accuracy score.
      [  65  260]] 
 
 
-Classifiers:  SVC has a score of 93.0 % accuracy score.
+**Classifiers:**  SVC has a score of 93.0 % accuracy score.
 
     Classification Report: 
   
@@ -99,7 +99,7 @@ Classifiers:  SVC has a score of 93.0 % accuracy score.
      [  51  274]] 
 
 
-Classifiers:  CatBoostClassifier has a score of 96.0 % accuracy score.
+**Classifiers:**  CatBoostClassifier has a score of 96.0 % accuracy score.
 
     Classification Report: 
   
@@ -117,7 +117,7 @@ Classifiers:  CatBoostClassifier has a score of 96.0 % accuracy score.
      [  23  302]] 
 
 
-Classifiers:  XGBClassifier has a score of 97.0 % accuracy score.
+**Classifiers:**  XGBClassifier has a score of 97.0 % accuracy score.
 
     Classification Report: 
   
