@@ -1,6 +1,7 @@
 # Bank Credit Card Customer Churn Aanalysis
 
 Dataset Link: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+
 Kaggle Notebook: https://www.kaggle.com/code/shasan7/bank-churn
 
 Used scikit-learn's machine learning models for prediction. Logistic Regression, Random Forest, Support Vector Machine, XGBoost, CatBoost, Ridge Classifier and SGD Classifiers were run.
