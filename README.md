@@ -1,4 +1,4 @@
-# Bank-Credit Card Customer: Churn Aanalysis
+# Bank-Credit-Card Customer: Churn Aanalysis
 
 **Dataset Link:** https://www.kaggle.com/datasets/credit-card-customers/BankChurners.csv
 
